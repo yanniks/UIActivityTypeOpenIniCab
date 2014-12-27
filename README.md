@@ -16,3 +16,5 @@ If not, try this:
     }
 
 Please note, that this is written in Swift. Swift supports iOS 7 and newer, iOS 6 is not supported. Take a look to the example application for further information.
+
+![Example application](https://raw.githubusercontent.com/yanniks/UIActivityTypeOpenIniCab/master/screenshot.png)
