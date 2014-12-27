@@ -417,6 +417,7 @@
 				3E9A8C2C1A4EE7C800125F75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3E9A8C2D1A4EE7C800125F75 /* Build configuration list for PBXNativeTarget "Open in iCab ExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -425,6 +426,7 @@
 				3E9A8C2F1A4EE7C800125F75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

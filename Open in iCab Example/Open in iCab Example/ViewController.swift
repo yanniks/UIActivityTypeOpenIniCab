@@ -28,7 +28,7 @@ class ViewController: UIViewController,UIWebViewDelegate {
         self.presentViewController(activity, animated: true, completion: nil)
         if activity.respondsToSelector("popoverPresentationController") {
             let presentationController = activity.popoverPresentationController
-            presentationController?.sourceView = view
+            presentationController?.barButtonItem = sender as UIBarButtonItem
         }
     }
 
